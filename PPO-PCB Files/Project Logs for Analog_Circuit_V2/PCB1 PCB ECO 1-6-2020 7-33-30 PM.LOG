@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=-15 Pin=PWR_pins-1
+Removed Pin From Net: NetName=+15 Pin=PWR_pins-2
+Removed Pin From Net: NetName=GND Pin=PWR_pins-3
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=20mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=20mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=20mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=20mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=20mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=20mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=20mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=20mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=20mil
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mil New=20mil

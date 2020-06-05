@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=+15 Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=-15 Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=-15 Pin=PWR_pins-1
+Removed Pin From Net: NetName=+15 Pin=PWR_pins-2
+Removed Pin From Net: NetName=GND Pin=PWR_pins-3
+Removed Member From Class: ClassName=Power_Supply Member=PWR_pins
+Added Component: Designator=PWR(640389-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70083704"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/te-connectivity-640389-3/70083704/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-emea.rs-online.com/webdocs/06b6/0900766b806b63a3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "640389-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-6403893"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=571-6403893"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "5355894P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/5355894P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+15 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=-15 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=PWR-1
+Added Pin To Net: NetName=+15 Pin=PWR-2
+Added Pin To Net: NetName=-15 Pin=PWR-3
+Added Member To Class: ClassName=Power_Supply Member=Component PWR 640389-3
+Added Room: Name=Power_Supply

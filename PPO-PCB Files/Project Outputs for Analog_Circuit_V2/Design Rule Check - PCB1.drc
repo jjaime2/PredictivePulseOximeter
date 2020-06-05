@@ -1,0 +1,53 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\jose3\Documents\BioRobotics\smart-grasper-2.0-pulse-oximetry\Grasper PCBs\Pulse Oxymetry\Analog Front End - Jose REV\PCB1.PcbDoc
+Date     : 1/30/2020
+Time     : 6:55:31 PM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=150mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=15mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=5mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=10mil) (Max=247mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (3.524mil < 10mil) Between Pad PD_JACK-1(290mil,885.984mil) on Top Layer And Pad PD_JACK-3(290mil,980mil) on Top Layer [Top Solder] Mask Sliver [3.524mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.524mil < 10mil) Between Pad PD_JACK-2(290mil,1074.016mil) on Top Layer And Pad PD_JACK-3(290mil,980mil) on Top Layer [Top Solder] Mask Sliver [3.524mil]
+Rule Violations :2
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 2
+Waived Violations : 0
+Time Elapsed        : 00:00:00

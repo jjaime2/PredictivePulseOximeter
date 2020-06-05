@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=External_Connectors Member=SC_5P1
+Added Member To Class: ClassName=Photodiode_Circuit Member=Component C3 Cap
+Added Member To Class: ClassName=Photodiode_Circuit Member=Component C4 Cap
