@@ -1,0 +1,58 @@
+Change Component Footprint: Designator=J1 Old Footprint=MOLX-105133-0001_V New Footprint=614105150621
+Change Component Comment : Designator=J1 Old Comment=105133-0001 New Comment=614105150621
+Change component parameters: Designator = "J1"; Footprint = "614105150621"; UniqueID = "\JIAVYZCJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "MicroUSB2.0TypeAB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "30mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/614105150621.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40to85degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "614105150621"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "614105150621"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "1.8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Voltage"; Value = "30VAC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=PPO Member=Component C1 Cap
+Added Member To Class: ClassName=PPO Member=Component C3 Cap
+Added Member To Class: ClassName=PPO Member=Component C4 Cap
+Added Member To Class: ClassName=PPO Member=Component C5 Cap
+Added Member To Class: ClassName=PPO Member=Component C6 Cap
+Added Member To Class: ClassName=PPO Member=Component C7 Cap
+Added Member To Class: ClassName=PPO Member=Component C9 Cap
+Added Member To Class: ClassName=PPO Member=Component C12 Cap
+Added Member To Class: ClassName=PPO Member=Component C13 Cap
+Added Member To Class: ClassName=PPO Member=Component C14 Cap
+Added Member To Class: ClassName=PPO Member=Component C15 Cap
+Added Member To Class: ClassName=PPO Member=Component C17 Cap
+Added Member To Class: ClassName=PPO Member=Component C20 Cap
+Added Member To Class: ClassName=PPO Member=Component C22 Cap
+Added Member To Class: ClassName=PPO Member=Component C25 Cap
+Added Member To Class: ClassName=PPO Member=Component C26 Cap
+Added Member To Class: ClassName=PPO Member=Component C27 Cap
+Added Member To Class: ClassName=PPO Member=Component C28 Cap
+Added Member To Class: ClassName=PPO Member=Component C30 Cap
+Added Member To Class: ClassName=PPO Member=Component C32 Cap
+Added Member To Class: ClassName=PPO Member=Component C33 Cap
+Added Member To Class: ClassName=PPO Member=Component D1 HSMG-C191
+Added Member To Class: ClassName=PPO Member=Component D4 USBLC6-2SC6
+Added Member To Class: ClassName=PPO Member=Component R3 Res1
+Added Member To Class: ClassName=PPO Member=Component R5 Res1
+Added Member To Class: ClassName=PPO Member=Component R6 Res1
+Added Member To Class: ClassName=PPO Member=Component R8 Res1
+Added Member To Class: ClassName=PPO Member=Component R11 Res1
+Added Member To Class: ClassName=PPO Member=Component R12 Res1
+Added Member To Class: ClassName=PPO Member=Component R16 Res1
+Added Member To Class: ClassName=PPO Member=Component R17 Res1
+Added Member To Class: ClassName=PPO Member=Component R18 Res1
+Added Member To Class: ClassName=PPO Member=Component R21 Res1
+Added Member To Class: ClassName=PPO Member=Component R22 Res1
+Added Member To Class: ClassName=PPO Member=Component U1 STM32F405RGT6TR
+Added Member To Class: ClassName=PPO Member=Component U4 OPA170AIDBVT
+Added Member To Class: ClassName=PPO Member=Component U5 MCP6S91T-E/SN
+Added Member To Class: ClassName=PPO Member=Component U7 LM2621MM/NOPB
+Added Member To Class: ClassName=PPO Member=Component U10 ADS1113IDGST
