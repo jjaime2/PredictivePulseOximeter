@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=-15 Pin=PWR_pins-1
+Removed Pin From Net: NetName=+15 Pin=PWR_pins-2
+Removed Pin From Net: NetName=GND Pin=PWR_pins-3

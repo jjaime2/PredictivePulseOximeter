@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=-15 Pin=PD_Reg-K
-Removed Pin From Net: NetName=-15 Pin=PD_Reg-K
-Added Pin To Net: NetName=GND Pin=PD_Reg-K
-Added Pin To Net: NetName=GND Pin=PD_Reg-K
-Added Member To Class: ClassName=LED_Drivers Member=Component M_IR2 2SK3018-TP

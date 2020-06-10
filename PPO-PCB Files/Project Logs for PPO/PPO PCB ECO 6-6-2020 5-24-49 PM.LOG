@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+LED_IR Pin=P7-1
+Removed Pin From Net: NetName=+LED_R Pin=P7-2
+Added Pin To Net: NetName=+LED_R Pin=P7-1
+Added Pin To Net: NetName=+LED_IR Pin=P7-2
+Added Room: Name=PPO

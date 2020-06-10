@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=NetCf_2_1 Pin=Cf_2-1
+Added Pin To Net: NetName=NetCf_2_1 Pin=Op_2-6
+Added Pin To Net: NetName=NetCf_2_1 Pin=Rf_2-2
+Added Pin To Net: NetName=NetCf_2_1 Pin=Rp_4-2
+Added Net: Name=NetCf_2_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=Rp_3-2
+Added Pin To Net: NetName=NetR2_2 Pin=Rp_4-1
+Added Net: Name=NetR2_2
+Added Member To Class: ClassName=Photodiode_Circuit Member=Component Rp_3 Resistor
+Added Member To Class: ClassName=Photodiode_Circuit Member=Component Rp_4 Resistor

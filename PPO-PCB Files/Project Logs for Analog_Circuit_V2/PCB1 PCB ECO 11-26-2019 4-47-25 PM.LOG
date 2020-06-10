@@ -1,8 +1,0 @@
-Removed Member From Class: ClassName=Photodiode_Circuit Member=C3
-Removed Member From Class: ClassName=Photodiode_Circuit Member=C4
-Removed Member From Class: ClassName=Photodiode_Circuit Member=R5
-Removed Member From Class: ClassName=Photodiode_Circuit Member=R6
-Added Member To Class: ClassName=Photodiode_Circuit Member=Component C1 Cap
-Added Member To Class: ClassName=Photodiode_Circuit Member=Component C2 Cap
-Added Member To Class: ClassName=Photodiode_Circuit Member=Component R2 Res3
-Added Member To Class: ClassName=Photodiode_Circuit Member=Component R3 Resistor

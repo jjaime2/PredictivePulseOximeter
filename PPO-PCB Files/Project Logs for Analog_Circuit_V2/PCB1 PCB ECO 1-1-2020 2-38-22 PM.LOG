@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=LED Common Pin=SC_5P2-5
-Removed Member From Class: ClassName=External_Connectors Member=SC_5P2
-Added Component: Designator=SC_?(PCBComponent_1)
-Add component. Clean all parameters for all variants
-Added Member To Class: ClassName=External_Connectors Member=Component SC_5P1 5-Pin Screw Connector
-Added Member To Class: ClassName=External_Connectors Member=Component SC_? 5-Pin Screw Connector

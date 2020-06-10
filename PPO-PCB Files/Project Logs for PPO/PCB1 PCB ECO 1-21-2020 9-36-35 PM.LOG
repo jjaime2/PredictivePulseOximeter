@@ -1,0 +1,61 @@
+Removed Member From Class: ClassName=Photodiode_Circuit Member=Cf_1
+Removed Member From Class: ClassName=Photodiode_Circuit Member=Cf_2
+Removed Member From Class: ClassName=Photodiode_Circuit Member=Rf_1
+Removed Member From Class: ClassName=Photodiode_Circuit Member=Rf_2
+Added Component: Designator=W1(RAD-0.2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.2 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=W2(RAD-0.2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.2 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=W3(RAD-0.2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.2 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=W4(RAD-0.2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.2 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetOp_1_2 Pin=Op_1-2
+Added Pin To Net: NetName=NetOp_1_2 Pin=Rp_1-1
+Added Pin To Net: NetName=NetOp_1_2 Pin=W1-1
+Added Pin To Net: NetName=NetOp_1_2 Pin=W2-1
+Added Net: Name=NetOp_1_2
+Added Pin To Net: NetName=NetOp_1_6 Pin=Op_1-6
+Added Pin To Net: NetName=NetOp_1_6 Pin=Rp_3-1
+Added Pin To Net: NetName=NetOp_1_6 Pin=W1-2
+Added Pin To Net: NetName=NetOp_1_6 Pin=W2-2
+Added Net: Name=NetOp_1_6
+Added Pin To Net: NetName=NetOp_2_2 Pin=Op_2-2
+Added Pin To Net: NetName=NetOp_2_2 Pin=Rp_2-2
+Added Pin To Net: NetName=NetOp_2_2 Pin=W3-1
+Added Pin To Net: NetName=NetOp_2_2 Pin=W4-1
+Added Net: Name=NetOp_2_2
+Added Pin To Net: NetName=NetOp_2_6 Pin=Op_2-6
+Added Pin To Net: NetName=NetOp_2_6 Pin=Rp_4-2
+Added Pin To Net: NetName=NetOp_2_6 Pin=W3-2
+Added Pin To Net: NetName=NetOp_2_6 Pin=W4-2
+Added Net: Name=NetOp_2_6
+Added Member To Class: ClassName=Photodiode_Circuit Member=Component PD_Reg Photodiode Coaxial Connector
+Added Member To Class: ClassName=Photodiode_Circuit Member=Component W1 Jumper
+Added Member To Class: ClassName=Photodiode_Circuit Member=Component W2 Jumper
+Added Member To Class: ClassName=Photodiode_Circuit Member=Component W3 Jumper
+Added Member To Class: ClassName=Photodiode_Circuit Member=Component W4 Jumper

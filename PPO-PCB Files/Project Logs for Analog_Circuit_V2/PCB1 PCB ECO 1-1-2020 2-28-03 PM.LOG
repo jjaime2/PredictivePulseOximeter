@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=-15 Pin=PWR_pins-1
-Removed Pin From Net: NetName=+15 Pin=PWR_pins-2
-Removed Pin From Net: NetName=GND Pin=PWR_pins-3
-Change Component Comment : Designator=SC_5P2 Old Comment=Comment New Comment=5-Pin Screw Connector
-Added Pin To Net: NetName=LED Common Pin=SC_5P2-5
-Added Member To Class: ClassName=External_Connectors Member=Component SC_5P2 5-Pin Screw Connector

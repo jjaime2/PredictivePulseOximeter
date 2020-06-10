@@ -1,6 +1,0 @@
-DRC Rules Export File for PCB: C:\Users\jose3\Documents\BioRobotics\smart-grasper-2.0-pulse-oximetry\Grasper PCBs\Pulse Oxymetry\Analog Front End - Jose REV\PCB1.PcbDoc
-RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=5.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00

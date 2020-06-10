@@ -1,0 +1,3 @@
+Added Component: Designator=ScrewConnB(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=External_Connectors Member=Component ScrewConnB Component_2
